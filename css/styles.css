@@ -1,3 +1,105 @@
-.logo{
-    text-align: center;
+body {
+  position: relative;  
+  text-align: center;
+
+
+}
+.logo {
+  width: 20%;
+  padding-bottom: 10px;
+}
+.container-1 {
+  padding-bottom: 20px;
+}
+.container-2 {
+  background-color: rgb(248, 246, 233);
+  border-top: solid;
+  border-color: rgb(246, 212, 143);
+  padding: 3px;
+  
+}
+strong{
+color: rgb(9, 123, 123);
+font-size: 0.66rem;
+
+}
+h1 {
+  font-size: 0.5rem;
+  color: darkcyan;
+  
+}
+h2 {
+  margin: auto;
+  font-size: 2rem;
+  padding-top: 50px;
+  width: 50%;
+}
+.container-3 {
+  text-align: center;
+  padding-bottom: 1px;
+}
+.wow{
+    font-weight: normal;
+    margin-left: 230px;
+    padding-top: 2px;
+    text-align: left;
+    width: 65%;
+}
+.focaccia{
+    padding-top: 2px;
+    width: 75%;
+       
+}
+.container-4{
+   text-align: left;
+   margin-left: 230px;
+}
+.vertical-container{
+    border-left: solid burlywood;
+       
+}
+span{
+    color: brown;
+    margin-left: 10px;
+    font-size: 1.1rem;
+}
+.link{
+    color: darkcyan;
+    margin-left: 10px;
+    font-size: 1rem;
+}
+
+.image-source{   
+    color: #c3c9c7;
+    margin-left: 250px;
+   
+}
+h3{
+    font-size: 1.5rem;
+    padding-top: 20px;
+}
+
+h4{
+    text-align: left;
+}
+ul{
+    list-style-type: square;
+    list-style-position: outside;
+    width: 70%;
+    
+}
+.container-5{
+    text-align: left;
+    margin-left: 230px;
+ }
+hr{
+   border-color: aquamarine;
+    border-width: 1px;
+    border-bottom: none;
+    width: 75%;
+    margin-left: 3px;
+}
+.method-text{
+    font-weight: lighter;
+    width: 75%;
 }
